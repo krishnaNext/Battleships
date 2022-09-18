@@ -1,0 +1,19 @@
+Player1
+
+_ X _ _ _
+_ _ _ _ _
+_ _ _ X _
+B O _ _ B
+_ X _ O _
+
+
+Player2
+
+_ X _ _ _
+_ _ _ _ _
+_ _ _ X _
+B O _ _ B
+_ X _ O _
+
+
+It is a draw.
